@@ -1,7 +1,7 @@
 {
   "title": "GRADE CURRICULAR — BIOMEDICINA UFPR",
   "subtitle": "Currículo 2021 com atualizações acadêmicas publicadas pelo Curso",
-  "version": "V1.1",
+  "version": "V1.2",
   "summary": {
     "periodos": 8,
     "obrigatoriasHoras": 3295,
@@ -11,8 +11,13 @@
     "cargaTotal": 3655
   },
   "notes": [
-    "As 405 h de extensão são curricularizadas e não se somam novamente às 3.655 h totais."
-     ],
+    "MS131 sem pré-requisito.",
+    "BMED019 com pré-requisito somente BT075.",
+    "BT075 no 6º período.",
+    "As 405 h de extensão são curricularizadas e não se somam novamente às 3.655 h totais.",
+    "Docentes e links Lattes foram adicionados a partir da relação institucional publicada na Grade Curricular da Biomedicina.",
+    "BF123: nome da docente confirmado na página institucional; link Lattes não foi publicado ali, portanto permanece sem botão até validação."
+  ],
   "sourceLinks": [
     {
       "label": "Grade Curricular — UFPR",
@@ -1658,5 +1663,112 @@
         }
       ]
     }
-  ]
+  ],
+  "home": {
+    "intro": "Conheça a estrutura do Curso de Biomedicina da UFPR, acompanhe seu percurso curricular e acesse rapidamente os principais serviços acadêmicos.",
+    "quickLinks": [
+      {
+        "label": "Grade Horária",
+        "url": "https://rodrigotadm-sketch.github.io/Grade-Hor-ria---Biomedicina/",
+        "group": "Vida acadêmica"
+      },
+      {
+        "label": "Calendário Acadêmico",
+        "url": "https://rodrigotadm-sketch.github.io/Calend-rio---UFPR/",
+        "group": "Vida acadêmica"
+      },
+      {
+        "label": "Principais Datas",
+        "url": "https://rodrigotadm-sketch.github.io/Calend-rio-Academico-UFPR/",
+        "group": "Vida acadêmica"
+      },
+      {
+        "label": "Matrículas",
+        "url": "https://rodrigotadm-sketch.github.io/cronograma-de-matricula/",
+        "group": "Vida acadêmica"
+      },
+      {
+        "label": "Formulários",
+        "url": "https://rodrigotadm-sketch.github.io/formul-rios/",
+        "group": "Procedimentos"
+      },
+      {
+        "label": "Estágios",
+        "url": "https://rodrigotadm-sketch.github.io/Est-gio/",
+        "group": "Procedimentos"
+      },
+      {
+        "label": "TCC",
+        "url": "https://rodrigotadm-sketch.github.io/TCC/",
+        "group": "Procedimentos"
+      },
+      {
+        "label": "Atividades Formativas e Extensão",
+        "url": "https://rodrigotadm-sketch.github.io/Atividade-Formativa-e-Extens-o/",
+        "group": "Procedimentos"
+      },
+      {
+        "label": "Mobilidade Acadêmica",
+        "url": "https://rodrigotadm-sketch.github.io/Mobilidade/",
+        "group": "Procedimentos"
+      },
+      {
+        "label": "Disciplinas Eletivas",
+        "url": "https://rodrigotadm-sketch.github.io/Eletivas/",
+        "group": "Matrículas e solicitações"
+      },
+      {
+        "label": "Disciplinas Isoladas",
+        "url": "https://rodrigotadm-sketch.github.io/Isoladas/",
+        "group": "Matrículas e solicitações"
+      },
+      {
+        "label": "Normas e Regulamentos",
+        "url": "https://rodrigotadm-sketch.github.io/Normas/",
+        "group": "Institucional"
+      },
+      {
+        "label": "Formas de Ingresso",
+        "url": "https://rodrigotadm-sketch.github.io/formas-de-ingresso/",
+        "group": "Curso e ingresso"
+      },
+      {
+        "label": "Universo UFPR",
+        "url": "https://rodrigotadm-sketch.github.io/Universo-UFPR/",
+        "group": "Eventos e comunidade"
+      },
+      {
+        "label": "Colóquio de Biomedicina",
+        "url": "https://rodrigotadm-sketch.github.io/col-quio/",
+        "group": "Eventos e comunidade"
+      },
+      {
+        "label": "CABIOM",
+        "url": "https://rodrigotadm-sketch.github.io/CAbiom/",
+        "group": "Eventos e comunidade"
+      },
+      {
+        "label": "Empresa Júnior — Chromos",
+        "url": "https://rodrigotadm-sketch.github.io/Empresa-Junior/",
+        "group": "Eventos e comunidade"
+      },
+      {
+        "label": "Contato",
+        "url": "https://rodrigotadm-sketch.github.io/contatos/",
+        "group": "Institucional"
+      }
+    ],
+    "notices": [
+      {
+        "title": "Matriz curricular",
+        "text": "Currículo 2021 com atualizações acadêmicas publicadas pelo Curso.",
+        "active": true
+      },
+      {
+        "title": "Meu percurso curricular",
+        "text": "As disciplinas marcadas como concluídas ficam salvas somente neste navegador.",
+        "active": true
+      }
+    ]
+  }
 }
