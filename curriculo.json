@@ -1,0 +1,1087 @@
+{
+  "title": "GRADE CURRICULAR — BIOMEDICINA UFPR",
+  "subtitle": "Currículo 2021 com atualizações acadêmicas publicadas pelo Curso",
+  "version": "V1",
+  "summary": {
+    "periodos": 8,
+    "obrigatoriasHoras": 3295,
+    "optativasHorasExigidas": 240,
+    "atividadesFormativasHoras": 120,
+    "extensaoCurricularizadaHoras": 405,
+    "cargaTotal": 3655
+  },
+  "notes": [
+    "MS131 sem pré-requisito.",
+    "BMED019 com pré-requisito somente BT075.",
+    "BT075 no 6º período.",
+    "As 405 h de extensão são curricularizadas e não se somam novamente às 3.655 h totais."
+  ],
+  "sourceLinks": [
+    {
+      "label": "Grade Curricular — UFPR",
+      "url": "https://bio.ufpr.br/biomedicina/grade-curricular/"
+    },
+    {
+      "label": "Matriz Curricular 2021",
+      "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/Matriz-curricular-1.pdf"
+    },
+    {
+      "label": "PPC",
+      "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/11/PPC.pdf"
+    },
+    {
+      "label": "Grade Horária",
+      "url": "https://rodrigotadm-sketch.github.io/Grade-Hor-ria---Biomedicina/"
+    }
+  ],
+  "disciplinas": [
+    {
+      "codigo": "BC079",
+      "nome": "Biologia Celular e Tecidual",
+      "periodo": 1,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 60,
+      "departamento": "Biologia Celular",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BC079-1.pdf"
+    },
+    {
+      "codigo": "BP223",
+      "nome": "Ações Extensionistas em Saúde Humana",
+      "periodo": 1,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 30,
+      "departamento": "Patologia Básica",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BP223-1.pdf"
+    },
+    {
+      "codigo": "BQ085",
+      "nome": "Estrutura e Função de Biomoléculas",
+      "periodo": 1,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 90,
+      "departamento": "Bioquímica e Biologia Molecular",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BQ085.pdf"
+    },
+    {
+      "codigo": "BQ089",
+      "nome": "Representação e Análise de Dados e Fenômenos nas Ciências Biológicas",
+      "periodo": 1,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 60,
+      "departamento": "Bioquímica e Biologia Molecular",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BQ089-1.pdf"
+    },
+    {
+      "codigo": "CQ317",
+      "nome": "Química Geral",
+      "periodo": 1,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 60,
+      "departamento": "Química",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/CQ317-1.pdf"
+    },
+    {
+      "codigo": "BA071",
+      "nome": "Anatomia Humana Sistêmica",
+      "periodo": 2,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 60,
+      "departamento": "Anatomia",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BA071.pdf"
+    },
+    {
+      "codigo": "BC080",
+      "nome": "Biologia Celular e Tecidual Aplicada",
+      "periodo": 2,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 60,
+      "departamento": "Biologia Celular",
+      "preRequisitos": [
+        "BC079"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BC080.pdf"
+    },
+    {
+      "codigo": "BC081",
+      "nome": "Pensamento em Ciência",
+      "periodo": 2,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 45,
+      "departamento": "Biologia Celular",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BC081.pdf"
+    },
+    {
+      "codigo": "BQ084",
+      "nome": "Introdução ao Método Científico",
+      "periodo": 2,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 45,
+      "departamento": "Bioquímica e Biologia Molecular",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BQ084.pdf"
+    },
+    {
+      "codigo": "BQ086",
+      "nome": "Metabolismo Celular e Tecidual",
+      "periodo": 2,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 60,
+      "departamento": "Bioquímica e Biologia Molecular",
+      "preRequisitos": [
+        "BQ085"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BQ086.pdf"
+    },
+    {
+      "codigo": "HF0407",
+      "nome": "Bioética",
+      "periodo": 2,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 60,
+      "departamento": "Filosofia",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/HF0407.pdf"
+    },
+    {
+      "codigo": "BA072",
+      "nome": "Neuroanatomia e Anatomia Seccional",
+      "periodo": 3,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 60,
+      "departamento": "Anatomia",
+      "preRequisitos": [
+        "BA071"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BA072.pdf"
+    },
+    {
+      "codigo": "BP213",
+      "nome": "Microbiologia",
+      "periodo": 3,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 60,
+      "departamento": "Patologia Básica",
+      "preRequisitos": [
+        "BC079",
+        "BQ085",
+        "BQ086"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BP213-1.pdf"
+    },
+    {
+      "codigo": "BP221",
+      "nome": "Metodologia do Ensino em Saúde I",
+      "periodo": 3,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 60,
+      "departamento": "Patologia Básica",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BP221.pdf"
+    },
+    {
+      "codigo": "BQ087",
+      "nome": "Biologia Molecular para Biomedicina",
+      "periodo": 3,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 90,
+      "departamento": "Bioquímica e Biologia Molecular",
+      "preRequisitos": [
+        "BQ085"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BQ087-1.pdf"
+    },
+    {
+      "codigo": "BQ090",
+      "nome": "Princípios de Biofísica",
+      "periodo": 3,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 45,
+      "departamento": "Bioquímica e Biologia Molecular",
+      "preRequisitos": [
+        "BQ089"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BQ090.pdf"
+    },
+    {
+      "codigo": "BZ079",
+      "nome": "Zoologia Urbana e Forense",
+      "periodo": 3,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 60,
+      "departamento": "Zoologia",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BZ079.pdf"
+    },
+    {
+      "codigo": "BF117",
+      "nome": "Fisiologia para Biomedicina I",
+      "periodo": 4,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 60,
+      "departamento": "Fisiologia",
+      "preRequisitos": [
+        "BC080"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BF117.pdf"
+    },
+    {
+      "codigo": "BG078",
+      "nome": "Genética para Biomedicina",
+      "periodo": 4,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 90,
+      "departamento": "Genética",
+      "preRequisitos": [
+        "BQ087"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BG078.pdf"
+    },
+    {
+      "codigo": "BP215",
+      "nome": "Imunologia",
+      "periodo": 4,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 60,
+      "departamento": "Patologia Básica",
+      "preRequisitos": [
+        "BC079",
+        "BQ085",
+        "BQ086"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BP215.pdf"
+    },
+    {
+      "codigo": "BP217",
+      "nome": "Hematologia Aplicada à Biomedicina",
+      "periodo": 4,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 60,
+      "departamento": "Patologia Básica",
+      "preRequisitos": [
+        "BC079",
+        "BQ085",
+        "BQ086"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BP217.pdf"
+    },
+    {
+      "codigo": "BP222",
+      "nome": "Metodologia do Ensino em Saúde II",
+      "periodo": 4,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 60,
+      "departamento": "Patologia Básica",
+      "preRequisitos": [
+        "BP221"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BP222.pdf"
+    },
+    {
+      "codigo": "CI182",
+      "nome": "Fundamentos de Programação de Computadores",
+      "periodo": 4,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 60,
+      "departamento": "Informática",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/CI182.pdf"
+    },
+    {
+      "codigo": "BF118",
+      "nome": "Fisiologia para Biomedicina II",
+      "periodo": 5,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 60,
+      "departamento": "Fisiologia",
+      "preRequisitos": [
+        "BF117"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BF118-1.pdf"
+    },
+    {
+      "codigo": "BP214",
+      "nome": "Parasitologia",
+      "periodo": 5,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 60,
+      "departamento": "Patologia Básica",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BP214-1.pdf"
+    },
+    {
+      "codigo": "BP216",
+      "nome": "Patologia Molecular Humana",
+      "periodo": 5,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 60,
+      "departamento": "Patologia Básica",
+      "preRequisitos": [
+        "BP217",
+        "BQ087"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BP216.pdf"
+    },
+    {
+      "codigo": "BT073",
+      "nome": "Farmacologia Biomédica I",
+      "periodo": 5,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 60,
+      "departamento": "Farmacologia",
+      "preRequisitos": [
+        "BQ090",
+        "BF117"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BT073.pdf"
+    },
+    {
+      "codigo": "CI1169",
+      "nome": "Bioinformática",
+      "periodo": 5,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 60,
+      "departamento": "Informática",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/CI1169-1.pdf"
+    },
+    {
+      "codigo": "MAC042",
+      "nome": "Bioquímica Biomédica",
+      "periodo": 5,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 60,
+      "departamento": "Análises Clínicas",
+      "preRequisitos": [
+        "BQ086"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/MAC042-1.pdf"
+    },
+    {
+      "codigo": "MS131",
+      "nome": "Epidemiologia para Biomedicina",
+      "periodo": 5,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 45,
+      "departamento": "Saúde Coletiva",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/MS131-1.pdf"
+    },
+    {
+      "codigo": "BC082",
+      "nome": "Biomarcadores de Contaminação Ambiental",
+      "periodo": 6,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 45,
+      "departamento": "Biologia Celular",
+      "preRequisitos": [
+        "BC079",
+        "BQ085"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BC082.pdf"
+    },
+    {
+      "codigo": "BP219",
+      "nome": "Redação de Projetos Científicos",
+      "periodo": 6,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 45,
+      "departamento": "Patologia Básica",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BP219.pdf"
+    },
+    {
+      "codigo": "BP220",
+      "nome": "Relações Patógeno-Hospedeiro: Abordagem Integrativa para Diagnóstico",
+      "periodo": 6,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 90,
+      "departamento": "Patologia Básica",
+      "preRequisitos": [
+        "BP213",
+        "BP214",
+        "BP215",
+        "BP216"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BP220.pdf"
+    },
+    {
+      "codigo": "BQ088",
+      "nome": "Métodos Analíticos para Biomedicina",
+      "periodo": 6,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 60,
+      "departamento": "Bioquímica e Biologia Molecular",
+      "preRequisitos": [
+        "BQ085"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BQ088.pdf"
+    },
+    {
+      "codigo": "BT074",
+      "nome": "Farmacologia Biomédica II",
+      "periodo": 6,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 60,
+      "departamento": "Farmacologia",
+      "preRequisitos": [
+        "BT073"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BT074.pdf"
+    },
+    {
+      "codigo": "MAC048",
+      "nome": "Práticas Específicas em Análises Clínicas",
+      "periodo": 6,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 45,
+      "departamento": "Análises Clínicas",
+      "preRequisitos": [
+        "BP215",
+        "BP217",
+        "BQ085",
+        "BQ086"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/MAC048-1.pdf"
+    },
+    {
+      "codigo": "BT075",
+      "nome": "Representação e Análise de Dados",
+      "periodo": 6,
+      "tipo": "Obrigatória",
+      "cargaHoraria": 30,
+      "departamento": "Farmacologia",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BT075.pdf"
+    },
+    {
+      "codigo": "BMED019",
+      "nome": "Trabalho de Conclusão de Curso",
+      "periodo": 7,
+      "tipo": "TCC",
+      "cargaHoraria": 120,
+      "departamento": "Curso de Biomedicina",
+      "preRequisitos": [
+        "BT075"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BMED019.pdf"
+    },
+    {
+      "codigo": "BMED020",
+      "nome": "Estágio Supervisionado I",
+      "periodo": 7,
+      "tipo": "Estágio",
+      "cargaHoraria": 500,
+      "departamento": "Curso de Biomedicina",
+      "preRequisitos": [
+        "MAC042",
+        "MAC048",
+        "BP220"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BMED020.pdf"
+    },
+    {
+      "codigo": "BMED021",
+      "nome": "Estágio Supervisionado II",
+      "periodo": 8,
+      "tipo": "Estágio",
+      "cargaHoraria": 500,
+      "departamento": "Curso de Biomedicina",
+      "preRequisitos": [
+        "BMED020"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BMED021.pdf"
+    },
+    {
+      "codigo": "BA070",
+      "nome": "Anatomia Humana Prática com Dissecação",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 30,
+      "departamento": "Anatomia",
+      "preRequisitos": [
+        "BA071",
+        "BA072"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BA070.pdf"
+    },
+    {
+      "codigo": "BB103",
+      "nome": "Métodos para Identificação de Plantas Medicinais",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 45,
+      "departamento": "Botânica",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BB103.pdf"
+    },
+    {
+      "codigo": "BC061",
+      "nome": "Processos Celulares",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 60,
+      "departamento": "Biologia Celular",
+      "preRequisitos": [
+        "BC079",
+        "BQ085",
+        "BQ086"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BC061.pdf"
+    },
+    {
+      "codigo": "BC083",
+      "nome": "Biologia Celular Avançada",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 60,
+      "departamento": "Biologia Celular",
+      "preRequisitos": [
+        "BC079",
+        "BQ085"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BC083.pdf"
+    },
+    {
+      "codigo": "BC084",
+      "nome": "Introdução à Reprodução Humana",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 45,
+      "departamento": "Biologia Celular",
+      "preRequisitos": [
+        "BC079"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BC084.pdf"
+    },
+    {
+      "codigo": "BC087",
+      "nome": "Toxicologia Celular",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 45,
+      "departamento": "Biologia Celular",
+      "preRequisitos": [
+        "BC080",
+        "BQ085",
+        "BQ086"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BC087.pdf"
+    },
+    {
+      "codigo": "BC088",
+      "nome": "Embriologia Humana",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 30,
+      "departamento": "Biologia Celular",
+      "preRequisitos": [
+        "BC079"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BC088.pdf"
+    },
+    {
+      "codigo": "BE0023",
+      "nome": "Introdução à Biomecânica",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 30,
+      "departamento": "Educação Física",
+      "preRequisitos": [
+        "BA071"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BE0023.pdf"
+    },
+    {
+      "codigo": "BF076",
+      "nome": "Ritmos Biológicos",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 30,
+      "departamento": "Fisiologia",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BF076.pdf"
+    },
+    {
+      "codigo": "BF115",
+      "nome": "Neurobiologia da Percepção e da Cognição",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 30,
+      "departamento": "Fisiologia",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BF115.pdf"
+    },
+    {
+      "codigo": "BF116",
+      "nome": "O Cérebro Vai ao Cinema",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 30,
+      "departamento": "Fisiologia",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BF116.pdf"
+    },
+    {
+      "codigo": "BF123",
+      "nome": "Questões Contemporâneas da Ciência Básica",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 60,
+      "departamento": "Fisiologia",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BF123.pdf"
+    },
+    {
+      "codigo": "BG066",
+      "nome": "Epigenética",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 45,
+      "departamento": "Genética",
+      "preRequisitos": [
+        "BG078"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BG066-1.pdf"
+    },
+    {
+      "codigo": "BG070",
+      "nome": "Genética do Comportamento",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 60,
+      "departamento": "Genética",
+      "preRequisitos": [
+        "BG078"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/11/BG070.pdf"
+    },
+    {
+      "codigo": "BG080",
+      "nome": "Análises Computacionais de Dados Biológicos",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 30,
+      "departamento": "Genética",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BG080-1.pdf"
+    },
+    {
+      "codigo": "BG086",
+      "nome": "Genética de Populações Humanas",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 60,
+      "departamento": "Genética",
+      "preRequisitos": [
+        "BG078"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BG086.pdf"
+    },
+    {
+      "codigo": "BG087",
+      "nome": "Temas Atuais em Genética",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 30,
+      "departamento": "Genética",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BG087.pdf"
+    },
+    {
+      "codigo": "BG088",
+      "nome": "Citogenética Humana",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 45,
+      "departamento": "Genética",
+      "preRequisitos": [
+        "BG078"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BG088-1.pdf"
+    },
+    {
+      "codigo": "BG089",
+      "nome": "Imunogenética",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 60,
+      "departamento": "Genética",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BG088-2.pdf"
+    },
+    {
+      "codigo": "BG090",
+      "nome": "Genética Médica",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 30,
+      "departamento": "Genética",
+      "preRequisitos": [
+        "BG078"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BG090.pdf"
+    },
+    {
+      "codigo": "BG091",
+      "nome": "Evolução Humana",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 30,
+      "departamento": "Genética",
+      "preRequisitos": [
+        "BG078"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BG091.pdf"
+    },
+    {
+      "codigo": "BG094",
+      "nome": "Imunologia Tumoral",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 60,
+      "departamento": "Genética",
+      "preRequisitos": [
+        "BP215",
+        "BG078"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BG094.pdf"
+    },
+    {
+      "codigo": "BP224",
+      "nome": "Oncologia Molecular",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 60,
+      "departamento": "Patologia Básica",
+      "preRequisitos": [
+        "BP216"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BP224.pdf"
+    },
+    {
+      "codigo": "BP225",
+      "nome": "O Microbioma Humano na Pesquisa Biomédica",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 60,
+      "departamento": "Patologia Básica",
+      "preRequisitos": [
+        "BP213"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BP225.pdf"
+    },
+    {
+      "codigo": "BP226",
+      "nome": "Técnicas Experimentais para Ciências da Vida",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 30,
+      "departamento": "Patologia Básica",
+      "preRequisitos": [
+        "BQ085",
+        "BQ086"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BP226.pdf"
+    },
+    {
+      "codigo": "BP227",
+      "nome": "Métodos Básicos em Produção Viral",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 45,
+      "departamento": "Patologia Básica",
+      "preRequisitos": [
+        "BP213",
+        "BQ085"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BP227.pdf"
+    },
+    {
+      "codigo": "BQ091",
+      "nome": "Estresse Oxidativo e Implicações Biológicas",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 30,
+      "departamento": "Bioquímica e Biologia Molecular",
+      "preRequisitos": [
+        "BQ085"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BQ091.pdf"
+    },
+    {
+      "codigo": "BQ092",
+      "nome": "Modelagem Matemática em Ciências Biológicas",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 30,
+      "departamento": "Bioquímica e Biologia Molecular",
+      "preRequisitos": [
+        "BQ089"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BQ092.pdf"
+    },
+    {
+      "codigo": "BQ093",
+      "nome": "Regulação da Expressão Gênica",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 30,
+      "departamento": "Bioquímica e Biologia Molecular",
+      "preRequisitos": [
+        "BQ085"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BQ093.pdf"
+    },
+    {
+      "codigo": "BQ094",
+      "nome": "Processamento e Purificação de Proteínas",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 60,
+      "departamento": "Bioquímica e Biologia Molecular",
+      "preRequisitos": [
+        "BQ085",
+        "BQ087"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BQ094.pdf"
+    },
+    {
+      "codigo": "BQ095",
+      "nome": "Biotecnologia Aplicada à Saúde",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 30,
+      "departamento": "Bioquímica e Biologia Molecular",
+      "preRequisitos": [
+        "BQ087"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BQ095.pdf"
+    },
+    {
+      "codigo": "BT058",
+      "nome": "Fisiopatologia e Farmacologia da Dor",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 30,
+      "departamento": "Farmacologia",
+      "preRequisitos": [
+        "BT073"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BT058.pdf"
+    },
+    {
+      "codigo": "BT076",
+      "nome": "Princípios de Neurociência e Neuropsicofarmacologia",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 90,
+      "departamento": "Farmacologia",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BT076.pdf"
+    },
+    {
+      "codigo": "BT077",
+      "nome": "Métodos e Modelos Toxicológicos",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 45,
+      "departamento": "Farmacologia",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BT077.pdf"
+    },
+    {
+      "codigo": "HF0210",
+      "nome": "Filosofia e Ecologia",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 60,
+      "departamento": "Filosofia",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/HF0210.pdf"
+    },
+    {
+      "codigo": "HF0211",
+      "nome": "Pensamento Afro-Brasileiro",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 60,
+      "departamento": "Filosofia",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/HF0211.pdf"
+    },
+    {
+      "codigo": "HF0212",
+      "nome": "Pensamento Ameríndio",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 60,
+      "departamento": "Filosofia",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/HF0212.pdf"
+    },
+    {
+      "codigo": "HF0804",
+      "nome": "Filosofia Política V",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 60,
+      "departamento": "Filosofia",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/HF0804.pdf"
+    },
+    {
+      "codigo": "HF0815",
+      "nome": "Filosofia das Relações Internacionais",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 60,
+      "departamento": "Filosofia",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/HF0815.pdf"
+    },
+    {
+      "codigo": "LIB038",
+      "nome": "Comunicação em Língua Brasileira de Sinais-Libras: Fundamentos da Educação Bilíngue para Surdos",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 60,
+      "departamento": "Letras Libras",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/LIB038.pdf"
+    },
+    {
+      "codigo": "MAC035",
+      "nome": "Micologia Clínica",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 45,
+      "departamento": "Análises Clínicas",
+      "preRequisitos": [
+        "BP213",
+        "BP216"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC035.pdf"
+    },
+    {
+      "codigo": "MAC038",
+      "nome": "Bacteriologia Clínica",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 60,
+      "departamento": "Análises Clínicas",
+      "preRequisitos": [
+        "BP213"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC038.pdf"
+    },
+    {
+      "codigo": "MAC039",
+      "nome": "Parasitologia Clínica",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 45,
+      "departamento": "Análises Clínicas",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC039.pdf"
+    },
+    {
+      "codigo": "MAC040",
+      "nome": "Citologia Clínica e Líquidos Biológicos",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 45,
+      "departamento": "Análises Clínicas",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC040.pdf"
+    },
+    {
+      "codigo": "MAC041",
+      "nome": "Controle e Gestão da Qualidade em Laboratórios de Análises Clínicas",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 45,
+      "departamento": "Análises Clínicas",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC041.pdf"
+    },
+    {
+      "codigo": "MAC043",
+      "nome": "Toxicologia",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 15,
+      "departamento": "Análises Clínicas",
+      "preRequisitos": [
+        "BT073"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC043.pdf"
+    },
+    {
+      "codigo": "MAC044",
+      "nome": "Virologia Clínica",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 45,
+      "departamento": "Análises Clínicas",
+      "preRequisitos": [
+        "BP215",
+        "BP216"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC044.pdf"
+    },
+    {
+      "codigo": "MAC045",
+      "nome": "Toxicologia Clínica",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 75,
+      "departamento": "Análises Clínicas",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC045.pdf"
+    },
+    {
+      "codigo": "MAC046",
+      "nome": "Imunologia Clínica",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 75,
+      "departamento": "Análises Clínicas",
+      "preRequisitos": [],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC046.pdf"
+    },
+    {
+      "codigo": "MAC047",
+      "nome": "Urinálise",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 30,
+      "departamento": "Análises Clínicas",
+      "preRequisitos": [
+        "BF117"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC047.pdf"
+    },
+    {
+      "codigo": "MAC049",
+      "nome": "Práticas Laboratoriais para Promoção à Saúde",
+      "periodo": null,
+      "tipo": "Optativa",
+      "cargaHoraria": 45,
+      "departamento": "Análises Clínicas",
+      "preRequisitos": [
+        "BP215",
+        "BP217",
+        "BQ085",
+        "BQ086"
+      ],
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC049.pdf"
+    }
+  ]
+}
