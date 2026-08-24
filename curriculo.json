@@ -10,15 +10,7 @@
     "extensaoCurricularizadaHoras": 405,
     "cargaTotal": 3655
   },
-  "notes": [
-    "MS131 sem pré-requisito.",
-    "BMED019 com pré-requisito somente BT075.",
-    "BT075 no 6º período.",
-    "As 405 h de extensão são curricularizadas e não se somam novamente às 3.655 h totais.",
-    "Docentes e links Lattes foram adicionados a partir da relação institucional publicada na Grade Curricular da Biomedicina.",
-    "BF123: nome da docente confirmado na página institucional; link Lattes não foi publicado ali, portanto permanece sem botão até validação."
-  ],
-  "sourceLinks": [
+   "sourceLinks": [
     {
       "label": "Grade Curricular — UFPR",
       "url": "https://bio.ufpr.br/biomedicina/grade-curricular/"
