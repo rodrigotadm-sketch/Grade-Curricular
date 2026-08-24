@@ -1,7 +1,7 @@
 {
   "title": "GRADE CURRICULAR — BIOMEDICINA UFPR",
   "subtitle": "Currículo 2021 com atualizações acadêmicas publicadas pelo Curso",
-  "version": "V1",
+  "version": "V1.1",
   "summary": {
     "periodos": 8,
     "obrigatoriasHoras": 3295,
@@ -14,7 +14,9 @@
     "MS131 sem pré-requisito.",
     "BMED019 com pré-requisito somente BT075.",
     "BT075 no 6º período.",
-    "As 405 h de extensão são curricularizadas e não se somam novamente às 3.655 h totais."
+    "As 405 h de extensão são curricularizadas e não se somam novamente às 3.655 h totais.",
+    "Docentes e links Lattes foram adicionados a partir da relação institucional publicada na Grade Curricular da Biomedicina.",
+    "BF123: nome da docente confirmado na página institucional; link Lattes não foi publicado ali, portanto permanece sem botão até validação."
   ],
   "sourceLinks": [
     {
@@ -43,7 +45,17 @@
       "cargaHoraria": 60,
       "departamento": "Biologia Celular",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BC079-1.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BC079-1.pdf",
+      "docentes": [
+        {
+          "nome": "Fernanda Fogagnoli Simas",
+          "lattes": "https://lattes.cnpq.br/4651679415363572"
+        },
+        {
+          "nome": "Katya Naliwaiko",
+          "lattes": "https://lattes.cnpq.br/9989637545815762"
+        }
+      ]
     },
     {
       "codigo": "BP223",
@@ -53,7 +65,13 @@
       "cargaHoraria": 30,
       "departamento": "Patologia Básica",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BP223-1.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BP223-1.pdf",
+      "docentes": [
+        {
+          "nome": "Débora do Rocio Klisiowicz",
+          "lattes": "https://lattes.cnpq.br/9426301797731779"
+        }
+      ]
     },
     {
       "codigo": "BQ085",
@@ -63,7 +81,13 @@
       "cargaHoraria": 90,
       "departamento": "Bioquímica e Biologia Molecular",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BQ085.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BQ085.pdf",
+      "docentes": [
+        {
+          "nome": "Diogo Ricardo Bazan Ducatti",
+          "lattes": "https://lattes.cnpq.br/2032923073311145"
+        }
+      ]
     },
     {
       "codigo": "BQ089",
@@ -73,7 +97,13 @@
       "cargaHoraria": 60,
       "departamento": "Bioquímica e Biologia Molecular",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BQ089-1.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BQ089-1.pdf",
+      "docentes": [
+        {
+          "nome": "David Alexander Mitchell",
+          "lattes": "https://lattes.cnpq.br/9183875102082026"
+        }
+      ]
     },
     {
       "codigo": "CQ317",
@@ -83,7 +113,13 @@
       "cargaHoraria": 60,
       "departamento": "Química",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/CQ317-1.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/CQ317-1.pdf",
+      "docentes": [
+        {
+          "nome": "Nadia Krieger",
+          "lattes": "https://lattes.cnpq.br/2775550283624253"
+        }
+      ]
     },
     {
       "codigo": "BA071",
@@ -93,7 +129,13 @@
       "cargaHoraria": 60,
       "departamento": "Anatomia",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BA071.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BA071.pdf",
+      "docentes": [
+        {
+          "nome": "Djanira Aparecida Luz",
+          "lattes": "https://lattes.cnpq.br/9947917203115255"
+        }
+      ]
     },
     {
       "codigo": "BC080",
@@ -105,7 +147,17 @@
       "preRequisitos": [
         "BC079"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BC080.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BC080.pdf",
+      "docentes": [
+        {
+          "nome": "Fernanda Fogagnoli Simas",
+          "lattes": "https://lattes.cnpq.br/4651679415363572"
+        },
+        {
+          "nome": "Katya Naliwaiko",
+          "lattes": "https://lattes.cnpq.br/9989637545815762"
+        }
+      ]
     },
     {
       "codigo": "BC081",
@@ -115,7 +167,13 @@
       "cargaHoraria": 45,
       "departamento": "Biologia Celular",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BC081.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BC081.pdf",
+      "docentes": [
+        {
+          "nome": "Marco Antonio Ferreira Randi",
+          "lattes": "https://lattes.cnpq.br/0203267762283972"
+        }
+      ]
     },
     {
       "codigo": "BQ084",
@@ -125,7 +183,13 @@
       "cargaHoraria": 45,
       "departamento": "Bioquímica e Biologia Molecular",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BQ084.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BQ084.pdf",
+      "docentes": [
+        {
+          "nome": "David Alexander Mitchell",
+          "lattes": "https://lattes.cnpq.br/9183875102082026"
+        }
+      ]
     },
     {
       "codigo": "BQ086",
@@ -137,7 +201,13 @@
       "preRequisitos": [
         "BQ085"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BQ086.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BQ086.pdf",
+      "docentes": [
+        {
+          "nome": "Diogo Ricardo Bazan Ducatti",
+          "lattes": "https://lattes.cnpq.br/2032923073311145"
+        }
+      ]
     },
     {
       "codigo": "HF0407",
@@ -147,7 +217,13 @@
       "cargaHoraria": 60,
       "departamento": "Filosofia",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/HF0407.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/HF0407.pdf",
+      "docentes": [
+        {
+          "nome": "Daniel Verginelli Galantin",
+          "lattes": "https://lattes.cnpq.br/3881064026467115"
+        }
+      ]
     },
     {
       "codigo": "BA072",
@@ -159,7 +235,13 @@
       "preRequisitos": [
         "BA071"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BA072.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BA072.pdf",
+      "docentes": [
+        {
+          "nome": "Djanira Aparecida Luz",
+          "lattes": "https://lattes.cnpq.br/9947917203115255"
+        }
+      ]
     },
     {
       "codigo": "BP213",
@@ -173,7 +255,13 @@
         "BQ085",
         "BQ086"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BP213-1.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BP213-1.pdf",
+      "docentes": [
+        {
+          "nome": "Andrea Emilia Marques Stinghen",
+          "lattes": "https://lattes.cnpq.br/7589566414393448"
+        }
+      ]
     },
     {
       "codigo": "BP221",
@@ -183,7 +271,13 @@
       "cargaHoraria": 60,
       "departamento": "Patologia Básica",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BP221.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BP221.pdf",
+      "docentes": [
+        {
+          "nome": "Débora do Rocio Klisiowicz",
+          "lattes": "https://lattes.cnpq.br/9426301797731779"
+        }
+      ]
     },
     {
       "codigo": "BQ087",
@@ -195,7 +289,13 @@
       "preRequisitos": [
         "BQ085"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BQ087-1.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BQ087-1.pdf",
+      "docentes": [
+        {
+          "nome": "Wanderson Duarte da Rocha",
+          "lattes": "https://lattes.cnpq.br/3903059199543811"
+        }
+      ]
     },
     {
       "codigo": "BQ090",
@@ -207,7 +307,13 @@
       "preRequisitos": [
         "BQ089"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BQ090.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BQ090.pdf",
+      "docentes": [
+        {
+          "nome": "Diogo Ricardo Bazan Ducatti",
+          "lattes": "https://lattes.cnpq.br/2032923073311145"
+        }
+      ]
     },
     {
       "codigo": "BZ079",
@@ -217,7 +323,13 @@
       "cargaHoraria": 60,
       "departamento": "Zoologia",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BZ079.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BZ079.pdf",
+      "docentes": [
+        {
+          "nome": "Mario Antonio Navarro da Silva",
+          "lattes": "https://lattes.cnpq.br/3908941853662615"
+        }
+      ]
     },
     {
       "codigo": "BF117",
@@ -229,7 +341,13 @@
       "preRequisitos": [
         "BC080"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BF117.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BF117.pdf",
+      "docentes": [
+        {
+          "nome": "Luiz Claudio Fernandes",
+          "lattes": "https://lattes.cnpq.br/4994339816158390"
+        }
+      ]
     },
     {
       "codigo": "BG078",
@@ -241,7 +359,17 @@
       "preRequisitos": [
         "BQ087"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BG078.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BG078.pdf",
+      "docentes": [
+        {
+          "nome": "Jaqueline Carvalho de Oliveira",
+          "lattes": "https://lattes.cnpq.br/8730828720954911"
+        },
+        {
+          "nome": "Ricardo Lehtonen Rodrigues de Souza",
+          "lattes": "https://lattes.cnpq.br/0991827807598072"
+        }
+      ]
     },
     {
       "codigo": "BP215",
@@ -255,7 +383,13 @@
         "BQ085",
         "BQ086"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BP215.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BP215.pdf",
+      "docentes": [
+        {
+          "nome": "Larissa Magalhães Alvarenga",
+          "lattes": "https://lattes.cnpq.br/9712638986970478"
+        }
+      ]
     },
     {
       "codigo": "BP217",
@@ -269,7 +403,13 @@
         "BQ085",
         "BQ086"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BP217.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BP217.pdf",
+      "docentes": [
+        {
+          "nome": "Edneia Amancio de Souza Ramos Cavalieri",
+          "lattes": "https://lattes.cnpq.br/9489217441837089"
+        }
+      ]
     },
     {
       "codigo": "BP222",
@@ -281,7 +421,13 @@
       "preRequisitos": [
         "BP221"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BP222.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BP222.pdf",
+      "docentes": [
+        {
+          "nome": "Débora do Rocio Klisiowicz",
+          "lattes": "https://lattes.cnpq.br/9426301797731779"
+        }
+      ]
     },
     {
       "codigo": "CI182",
@@ -291,7 +437,13 @@
       "cargaHoraria": 60,
       "departamento": "Informática",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/CI182.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/CI182.pdf",
+      "docentes": [
+        {
+          "nome": "Armando Luiz Nicolini Delgado",
+          "lattes": "https://lattes.cnpq.br/8236531371807541"
+        }
+      ]
     },
     {
       "codigo": "BF118",
@@ -303,7 +455,13 @@
       "preRequisitos": [
         "BF117"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BF118-1.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BF118-1.pdf",
+      "docentes": [
+        {
+          "nome": "Luiz Claudio Fernandes",
+          "lattes": "https://lattes.cnpq.br/4994339816158390"
+        }
+      ]
     },
     {
       "codigo": "BP214",
@@ -313,7 +471,13 @@
       "cargaHoraria": 60,
       "departamento": "Patologia Básica",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BP214-1.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BP214-1.pdf",
+      "docentes": [
+        {
+          "nome": "Débora do Rocio Klisiowicz",
+          "lattes": "https://lattes.cnpq.br/9426301797731779"
+        }
+      ]
     },
     {
       "codigo": "BP216",
@@ -326,7 +490,13 @@
         "BP217",
         "BQ087"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BP216.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BP216.pdf",
+      "docentes": [
+        {
+          "nome": "Karin Braun Prado",
+          "lattes": "https://lattes.cnpq.br/0480268360549702"
+        }
+      ]
     },
     {
       "codigo": "BT073",
@@ -339,7 +509,13 @@
         "BQ090",
         "BF117"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BT073.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BT073.pdf",
+      "docentes": [
+        {
+          "nome": "Cristina Aparecida Jark Stern",
+          "lattes": "https://lattes.cnpq.br/5629281988891437"
+        }
+      ]
     },
     {
       "codigo": "CI1169",
@@ -349,7 +525,13 @@
       "cargaHoraria": 60,
       "departamento": "Informática",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/CI1169-1.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/CI1169-1.pdf",
+      "docentes": [
+        {
+          "nome": "Eduardo Jaques Spinosa",
+          "lattes": "https://lattes.cnpq.br/6610926478721564"
+        }
+      ]
     },
     {
       "codigo": "MAC042",
@@ -361,7 +543,13 @@
       "preRequisitos": [
         "BQ086"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/MAC042-1.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/MAC042-1.pdf",
+      "docentes": [
+        {
+          "nome": "Fabiane Gomes de Moraes Rego",
+          "lattes": "https://lattes.cnpq.br/2041345461058971"
+        }
+      ]
     },
     {
       "codigo": "MS131",
@@ -371,7 +559,13 @@
       "cargaHoraria": 45,
       "departamento": "Saúde Coletiva",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/MS131-1.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/MS131-1.pdf",
+      "docentes": [
+        {
+          "nome": "Solena Ziemer Kusma Fidalski",
+          "lattes": "https://lattes.cnpq.br/7916274501748513"
+        }
+      ]
     },
     {
       "codigo": "BC082",
@@ -384,7 +578,13 @@
         "BC079",
         "BQ085"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BC082.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BC082.pdf",
+      "docentes": [
+        {
+          "nome": "Ciro Alberto de Oliveira Ribeiro",
+          "lattes": "https://lattes.cnpq.br/7666734780195647"
+        }
+      ]
     },
     {
       "codigo": "BP219",
@@ -394,7 +594,13 @@
       "cargaHoraria": 45,
       "departamento": "Patologia Básica",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BP219.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BP219.pdf",
+      "docentes": [
+        {
+          "nome": "Adriana Frohlich Mercadante",
+          "lattes": "https://lattes.cnpq.br/4805245493035862"
+        }
+      ]
     },
     {
       "codigo": "BP220",
@@ -409,7 +615,17 @@
         "BP215",
         "BP216"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BP220.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BP220.pdf",
+      "docentes": [
+        {
+          "nome": "Camila Marcon",
+          "lattes": "https://lattes.cnpq.br/2439951126870898"
+        },
+        {
+          "nome": "Tárcio Teodoro Braga",
+          "lattes": "https://lattes.cnpq.br/3469202845244100"
+        }
+      ]
     },
     {
       "codigo": "BQ088",
@@ -421,7 +637,13 @@
       "preRequisitos": [
         "BQ085"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BQ088.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BQ088.pdf",
+      "docentes": [
+        {
+          "nome": "Guilherme Lanzi Sassaki",
+          "lattes": "https://lattes.cnpq.br/6433828746058651"
+        }
+      ]
     },
     {
       "codigo": "BT074",
@@ -433,7 +655,13 @@
       "preRequisitos": [
         "BT073"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BT074.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BT074.pdf",
+      "docentes": [
+        {
+          "nome": "Joice Maria da Cunha",
+          "lattes": "https://lattes.cnpq.br/4978491284256342"
+        }
+      ]
     },
     {
       "codigo": "MAC048",
@@ -448,7 +676,13 @@
         "BQ085",
         "BQ086"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/MAC048-1.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/MAC048-1.pdf",
+      "docentes": [
+        {
+          "nome": "Aline Borsato Hauser",
+          "lattes": "https://lattes.cnpq.br/7834327258340015"
+        }
+      ]
     },
     {
       "codigo": "BT075",
@@ -458,7 +692,13 @@
       "cargaHoraria": 30,
       "departamento": "Farmacologia",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BT075.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BT075.pdf",
+      "docentes": [
+        {
+          "nome": "Janaína Menezes Zanoveli",
+          "lattes": "https://lattes.cnpq.br/2879707811631626"
+        }
+      ]
     },
     {
       "codigo": "BMED019",
@@ -470,7 +710,13 @@
       "preRequisitos": [
         "BT075"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BMED019.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BMED019.pdf",
+      "docentes": [
+        {
+          "nome": "Docentes com vínculo ativo na UFPR",
+          "lattes": ""
+        }
+      ]
     },
     {
       "codigo": "BMED020",
@@ -484,7 +730,21 @@
         "MAC048",
         "BP220"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BMED020.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BMED020.pdf",
+      "docentes": [
+        {
+          "nome": "Aline Borsato Hauser",
+          "lattes": "https://lattes.cnpq.br/7834327258340015"
+        },
+        {
+          "nome": "Djanira Aparecida Luz",
+          "lattes": "https://lattes.cnpq.br/9947917203115255"
+        },
+        {
+          "nome": "Jaqueline Carvalho de Oliveira",
+          "lattes": "https://lattes.cnpq.br/8730828720954911"
+        }
+      ]
     },
     {
       "codigo": "BMED021",
@@ -496,7 +756,21 @@
       "preRequisitos": [
         "BMED020"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BMED021.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BMED021.pdf",
+      "docentes": [
+        {
+          "nome": "Aline Borsato Hauser",
+          "lattes": "https://lattes.cnpq.br/7834327258340015"
+        },
+        {
+          "nome": "Djanira Aparecida Luz",
+          "lattes": "https://lattes.cnpq.br/9947917203115255"
+        },
+        {
+          "nome": "Jaqueline Carvalho de Oliveira",
+          "lattes": "https://lattes.cnpq.br/8730828720954911"
+        }
+      ]
     },
     {
       "codigo": "BA070",
@@ -509,7 +783,13 @@
         "BA071",
         "BA072"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BA070.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BA070.pdf",
+      "docentes": [
+        {
+          "nome": "Djanira Aparecida Luz",
+          "lattes": "https://lattes.cnpq.br/9947917203115255"
+        }
+      ]
     },
     {
       "codigo": "BB103",
@@ -519,7 +799,13 @@
       "cargaHoraria": 45,
       "departamento": "Botânica",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BB103.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BB103.pdf",
+      "docentes": [
+        {
+          "nome": "Elizabeth de Araujo Schwarz",
+          "lattes": "https://lattes.cnpq.br/4333316060869581"
+        }
+      ]
     },
     {
       "codigo": "BC061",
@@ -533,7 +819,13 @@
         "BQ085",
         "BQ086"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BC061.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BC061.pdf",
+      "docentes": [
+        {
+          "nome": "Francisco Filipak Neto",
+          "lattes": "https://lattes.cnpq.br/0481460504746063"
+        }
+      ]
     },
     {
       "codigo": "BC083",
@@ -546,7 +838,13 @@
         "BC079",
         "BQ085"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BC083.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BC083.pdf",
+      "docentes": [
+        {
+          "nome": "Marco Antonio Ferreira Randi",
+          "lattes": "https://lattes.cnpq.br/0203267762283972"
+        }
+      ]
     },
     {
       "codigo": "BC084",
@@ -558,7 +856,13 @@
       "preRequisitos": [
         "BC079"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BC084.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BC084.pdf",
+      "docentes": [
+        {
+          "nome": "Katya Naliwaiko",
+          "lattes": "https://lattes.cnpq.br/9989637545815762"
+        }
+      ]
     },
     {
       "codigo": "BC087",
@@ -572,7 +876,13 @@
         "BQ085",
         "BQ086"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BC087.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BC087.pdf",
+      "docentes": [
+        {
+          "nome": "Francisco Filipak Neto",
+          "lattes": "https://lattes.cnpq.br/0481460504746063"
+        }
+      ]
     },
     {
       "codigo": "BC088",
@@ -584,7 +894,13 @@
       "preRequisitos": [
         "BC079"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BC088.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BC088.pdf",
+      "docentes": [
+        {
+          "nome": "Katya Naliwaiko",
+          "lattes": "https://lattes.cnpq.br/9989637545815762"
+        }
+      ]
     },
     {
       "codigo": "BE0023",
@@ -596,7 +912,13 @@
       "preRequisitos": [
         "BA071"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BE0023.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BE0023.pdf",
+      "docentes": [
+        {
+          "nome": "Julimar Luiz Pereira",
+          "lattes": "https://lattes.cnpq.br/7400744036330254"
+        }
+      ]
     },
     {
       "codigo": "BF076",
@@ -606,7 +928,13 @@
       "cargaHoraria": 30,
       "departamento": "Fisiologia",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BF076.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BF076.pdf",
+      "docentes": [
+        {
+          "nome": "Fernando Mazzilli Louzada",
+          "lattes": "https://lattes.cnpq.br/7357249693038974"
+        }
+      ]
     },
     {
       "codigo": "BF115",
@@ -616,7 +944,13 @@
       "cargaHoraria": 30,
       "departamento": "Fisiologia",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BF115.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BF115.pdf",
+      "docentes": [
+        {
+          "nome": "Fernando Mazzilli Louzada",
+          "lattes": "https://lattes.cnpq.br/7357249693038974"
+        }
+      ]
     },
     {
       "codigo": "BF116",
@@ -626,7 +960,13 @@
       "cargaHoraria": 30,
       "departamento": "Fisiologia",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BF116.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BF116.pdf",
+      "docentes": [
+        {
+          "nome": "Fernando Mazzilli Louzada",
+          "lattes": "https://lattes.cnpq.br/7357249693038974"
+        }
+      ]
     },
     {
       "codigo": "BF123",
@@ -636,7 +976,13 @@
       "cargaHoraria": 60,
       "departamento": "Fisiologia",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BF123.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BF123.pdf",
+      "docentes": [
+        {
+          "nome": "Maira Mello Rezende Valle",
+          "lattes": ""
+        }
+      ]
     },
     {
       "codigo": "BG066",
@@ -648,7 +994,13 @@
       "preRequisitos": [
         "BG078"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BG066-1.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BG066-1.pdf",
+      "docentes": [
+        {
+          "nome": "Angelica Beate Winter Boldt",
+          "lattes": "https://lattes.cnpq.br/7835465907444864"
+        }
+      ]
     },
     {
       "codigo": "BG070",
@@ -660,7 +1012,13 @@
       "preRequisitos": [
         "BG078"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/11/BG070.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/11/BG070.pdf",
+      "docentes": [
+        {
+          "nome": "Lupe Furtado Alle",
+          "lattes": "https://lattes.cnpq.br/1807577225084389"
+        }
+      ]
     },
     {
       "codigo": "BG080",
@@ -670,7 +1028,13 @@
       "cargaHoraria": 30,
       "departamento": "Genética",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BG080-1.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BG080-1.pdf",
+      "docentes": [
+        {
+          "nome": "Ricardo Lehtonen Rodrigues de Souza",
+          "lattes": "https://lattes.cnpq.br/0991827807598072"
+        }
+      ]
     },
     {
       "codigo": "BG086",
@@ -682,7 +1046,13 @@
       "preRequisitos": [
         "BG078"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BG086.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BG086.pdf",
+      "docentes": [
+        {
+          "nome": "Marcia Holsbach Beltrame",
+          "lattes": "https://lattes.cnpq.br/0412289083800375"
+        }
+      ]
     },
     {
       "codigo": "BG087",
@@ -692,7 +1062,13 @@
       "cargaHoraria": 30,
       "departamento": "Genética",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BG087.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BG087.pdf",
+      "docentes": [
+        {
+          "nome": "Chirlei Glienke",
+          "lattes": "https://lattes.cnpq.br/6592581685493038"
+        }
+      ]
     },
     {
       "codigo": "BG088",
@@ -704,7 +1080,13 @@
       "preRequisitos": [
         "BG078"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BG088-1.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BG088-1.pdf",
+      "docentes": [
+        {
+          "nome": "Jaqueline Carvalho de Oliveira",
+          "lattes": "https://lattes.cnpq.br/8730828720954911"
+        }
+      ]
     },
     {
       "codigo": "BG089",
@@ -714,7 +1096,13 @@
       "cargaHoraria": 60,
       "departamento": "Genética",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BG088-2.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BG088-2.pdf",
+      "docentes": [
+        {
+          "nome": "Patricia Savio de Araujo Souza",
+          "lattes": "https://lattes.cnpq.br/3220489021454901"
+        }
+      ]
     },
     {
       "codigo": "BG090",
@@ -726,7 +1114,13 @@
       "preRequisitos": [
         "BG078"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BG090.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BG090.pdf",
+      "docentes": [
+        {
+          "nome": "Rui Fernando Pilotto",
+          "lattes": "https://lattes.cnpq.br/4157273163264762"
+        }
+      ]
     },
     {
       "codigo": "BG091",
@@ -738,7 +1132,13 @@
       "preRequisitos": [
         "BG078"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BG091.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BG091.pdf",
+      "docentes": [
+        {
+          "nome": "Lupe Furtado Alle",
+          "lattes": "https://lattes.cnpq.br/1807577225084389"
+        }
+      ]
     },
     {
       "codigo": "BG094",
@@ -751,7 +1151,13 @@
         "BP215",
         "BG078"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BG094.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/BG094.pdf",
+      "docentes": [
+        {
+          "nome": "Patricia Savio de Araujo Souza",
+          "lattes": "https://lattes.cnpq.br/3220489021454901"
+        }
+      ]
     },
     {
       "codigo": "BP224",
@@ -763,7 +1169,13 @@
       "preRequisitos": [
         "BP216"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BP224.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BP224.pdf",
+      "docentes": [
+        {
+          "nome": "Giseli Klassen",
+          "lattes": "https://lattes.cnpq.br/9864315072734894"
+        }
+      ]
     },
     {
       "codigo": "BP225",
@@ -775,7 +1187,13 @@
       "preRequisitos": [
         "BP213"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BP225.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BP225.pdf",
+      "docentes": [
+        {
+          "nome": "Camila Marcon",
+          "lattes": "https://lattes.cnpq.br/2439951126870898"
+        }
+      ]
     },
     {
       "codigo": "BP226",
@@ -788,7 +1206,13 @@
         "BQ085",
         "BQ086"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BP226.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BP226.pdf",
+      "docentes": [
+        {
+          "nome": "Simone Benghi Pinto",
+          "lattes": "https://lattes.cnpq.br/0173195261525920"
+        }
+      ]
     },
     {
       "codigo": "BP227",
@@ -801,7 +1225,13 @@
         "BP213",
         "BQ085"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BP227.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BP227.pdf",
+      "docentes": [
+        {
+          "nome": "Lucy Ono",
+          "lattes": "https://lattes.cnpq.br/1404498050223194"
+        }
+      ]
     },
     {
       "codigo": "BQ091",
@@ -813,7 +1243,13 @@
       "preRequisitos": [
         "BQ085"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BQ091.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BQ091.pdf",
+      "docentes": [
+        {
+          "nome": "Glaucia Regina Martinez",
+          "lattes": "https://lattes.cnpq.br/3747406519720029"
+        }
+      ]
     },
     {
       "codigo": "BQ092",
@@ -825,7 +1261,13 @@
       "preRequisitos": [
         "BQ089"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BQ092.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BQ092.pdf",
+      "docentes": [
+        {
+          "nome": "David Alexander Mitchell",
+          "lattes": "https://lattes.cnpq.br/9183875102082026"
+        }
+      ]
     },
     {
       "codigo": "BQ093",
@@ -837,7 +1279,13 @@
       "preRequisitos": [
         "BQ085"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BQ093.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BQ093.pdf",
+      "docentes": [
+        {
+          "nome": "Sheila Maria Brochado Winnischofer",
+          "lattes": "https://lattes.cnpq.br/2704791842680040"
+        }
+      ]
     },
     {
       "codigo": "BQ094",
@@ -850,7 +1298,13 @@
         "BQ085",
         "BQ087"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BQ094.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BQ094.pdf",
+      "docentes": [
+        {
+          "nome": "Elaine Machado Benelli",
+          "lattes": "https://lattes.cnpq.br/1379941088057163"
+        }
+      ]
     },
     {
       "codigo": "BQ095",
@@ -862,7 +1316,13 @@
       "preRequisitos": [
         "BQ087"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BQ095.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BQ095.pdf",
+      "docentes": [
+        {
+          "nome": "David Alexander Mitchell",
+          "lattes": "https://lattes.cnpq.br/9183875102082026"
+        }
+      ]
     },
     {
       "codigo": "BT058",
@@ -874,7 +1334,13 @@
       "preRequisitos": [
         "BT073"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BT058.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BT058.pdf",
+      "docentes": [
+        {
+          "nome": "Joice Maria da Cunha",
+          "lattes": "https://lattes.cnpq.br/4978491284256342"
+        }
+      ]
     },
     {
       "codigo": "BT076",
@@ -884,7 +1350,13 @@
       "cargaHoraria": 90,
       "departamento": "Farmacologia",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BT076.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BT076.pdf",
+      "docentes": [
+        {
+          "nome": "Claudio da Cunha",
+          "lattes": "https://lattes.cnpq.br/6408257624509628"
+        }
+      ]
     },
     {
       "codigo": "BT077",
@@ -894,7 +1366,13 @@
       "cargaHoraria": 45,
       "departamento": "Farmacologia",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BT077.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/BT077.pdf",
+      "docentes": [
+        {
+          "nome": "Paulo Roberto Dalsenter",
+          "lattes": "https://lattes.cnpq.br/1725245639913676"
+        }
+      ]
     },
     {
       "codigo": "HF0210",
@@ -904,7 +1382,13 @@
       "cargaHoraria": 60,
       "departamento": "Filosofia",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/HF0210.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/HF0210.pdf",
+      "docentes": [
+        {
+          "nome": "Marco Antonio Valentim",
+          "lattes": "https://lattes.cnpq.br/3587138963940370"
+        }
+      ]
     },
     {
       "codigo": "HF0211",
@@ -914,7 +1398,13 @@
       "cargaHoraria": 60,
       "departamento": "Filosofia",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/HF0211.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/HF0211.pdf",
+      "docentes": [
+        {
+          "nome": "Marco Antonio Valentim",
+          "lattes": "https://lattes.cnpq.br/3587138963940370"
+        }
+      ]
     },
     {
       "codigo": "HF0212",
@@ -924,7 +1414,13 @@
       "cargaHoraria": 60,
       "departamento": "Filosofia",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/HF0212.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/HF0212.pdf",
+      "docentes": [
+        {
+          "nome": "Breno Hax Junior",
+          "lattes": "https://lattes.cnpq.br/8800927789731735"
+        }
+      ]
     },
     {
       "codigo": "HF0804",
@@ -934,7 +1430,13 @@
       "cargaHoraria": 60,
       "departamento": "Filosofia",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/HF0804.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/HF0804.pdf",
+      "docentes": [
+        {
+          "nome": "Rodrigo Brandão",
+          "lattes": "https://lattes.cnpq.br/0072291019903193"
+        }
+      ]
     },
     {
       "codigo": "HF0815",
@@ -944,7 +1446,13 @@
       "cargaHoraria": 60,
       "departamento": "Filosofia",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/HF0815.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/HF0815.pdf",
+      "docentes": [
+        {
+          "nome": "Joel Thiago Klein",
+          "lattes": "https://lattes.cnpq.br/6509960442502778"
+        }
+      ]
     },
     {
       "codigo": "LIB038",
@@ -954,7 +1462,13 @@
       "cargaHoraria": 60,
       "departamento": "Letras Libras",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/LIB038.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/LIB038.pdf",
+      "docentes": [
+        {
+          "nome": "Paulo Henrique Pereira",
+          "lattes": "https://lattes.cnpq.br/2533668503492967"
+        }
+      ]
     },
     {
       "codigo": "MAC035",
@@ -967,7 +1481,13 @@
         "BP213",
         "BP216"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC035.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC035.pdf",
+      "docentes": [
+        {
+          "nome": "Izabella Castilhos Ribeiro dos Santos Weiss",
+          "lattes": "https://lattes.cnpq.br/2824121047365672"
+        }
+      ]
     },
     {
       "codigo": "MAC038",
@@ -979,7 +1499,13 @@
       "preRequisitos": [
         "BP213"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC038.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC038.pdf",
+      "docentes": [
+        {
+          "nome": "Wesley Mauricio de Souza",
+          "lattes": "https://lattes.cnpq.br/4550015768205145"
+        }
+      ]
     },
     {
       "codigo": "MAC039",
@@ -989,7 +1515,13 @@
       "cargaHoraria": 45,
       "departamento": "Análises Clínicas",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC039.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC039.pdf",
+      "docentes": [
+        {
+          "nome": "Karina Bettega Felipe",
+          "lattes": "https://lattes.cnpq.br/2803686235436871"
+        }
+      ]
     },
     {
       "codigo": "MAC040",
@@ -999,7 +1531,13 @@
       "cargaHoraria": 45,
       "departamento": "Análises Clínicas",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC040.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC040.pdf",
+      "docentes": [
+        {
+          "nome": "Mauren Isfer Anghebem",
+          "lattes": "https://lattes.cnpq.br/5787684196767069"
+        }
+      ]
     },
     {
       "codigo": "MAC041",
@@ -1009,7 +1547,13 @@
       "cargaHoraria": 45,
       "departamento": "Análises Clínicas",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC041.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC041.pdf",
+      "docentes": [
+        {
+          "nome": "Dayane Alberton",
+          "lattes": "https://lattes.cnpq.br/9920652228852091"
+        }
+      ]
     },
     {
       "codigo": "MAC043",
@@ -1021,7 +1565,13 @@
       "preRequisitos": [
         "BT073"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC043.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC043.pdf",
+      "docentes": [
+        {
+          "nome": "Ricardo Wagner",
+          "lattes": "https://lattes.cnpq.br/5998303268955565"
+        }
+      ]
     },
     {
       "codigo": "MAC044",
@@ -1034,7 +1584,13 @@
         "BP215",
         "BP216"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC044.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC044.pdf",
+      "docentes": [
+        {
+          "nome": "Meri Bordignon Nogueira",
+          "lattes": "https://lattes.cnpq.br/2070381535584818"
+        }
+      ]
     },
     {
       "codigo": "MAC045",
@@ -1044,7 +1600,13 @@
       "cargaHoraria": 75,
       "departamento": "Análises Clínicas",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC045.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC045.pdf",
+      "docentes": [
+        {
+          "nome": "Railson Henneberg",
+          "lattes": "https://lattes.cnpq.br/5653674289809398"
+        }
+      ]
     },
     {
       "codigo": "MAC046",
@@ -1054,7 +1616,13 @@
       "cargaHoraria": 75,
       "departamento": "Análises Clínicas",
       "preRequisitos": [],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC046.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC046.pdf",
+      "docentes": [
+        {
+          "nome": "Glaucio Valdameri",
+          "lattes": "https://lattes.cnpq.br/9897630183923653"
+        }
+      ]
     },
     {
       "codigo": "MAC047",
@@ -1066,7 +1634,13 @@
       "preRequisitos": [
         "BF117"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC047.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC047.pdf",
+      "docentes": [
+        {
+          "nome": "Aline Borsato Hauser",
+          "lattes": "https://lattes.cnpq.br/7834327258340015"
+        }
+      ]
     },
     {
       "codigo": "MAC049",
@@ -1081,7 +1655,13 @@
         "BQ085",
         "BQ086"
       ],
-      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC049.pdf"
+      "ficha1": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2021/09/MAC049.pdf",
+      "docentes": [
+        {
+          "nome": "Amanda Rabello Crisma",
+          "lattes": "https://lattes.cnpq.br/1860733072842803"
+        }
+      ]
     }
   ]
 }
